@@ -10,6 +10,8 @@ altitude: 0.0000
 ![20ae7feccf7c7b4b631859eb64363fc7.png](../../_resources/20ae7feccf7c7b4b631859eb64363fc7.png)
 
 ![f3af4eb52117520cb4dd5c379d239460.png](../../_resources/f3af4eb52117520cb4dd5c379d239460.png)
+
+
 $$\begin{pmatrix}
 1 \\
 3 \\
@@ -39,7 +41,9 @@ h+17 \\
 -5 \\
 \end{pmatrix}$$
 $$h=-7$$
+
 ![1ff243a9686fd99329139c5ad795e755.png](../../_resources/1ff243a9686fd99329139c5ad795e755.png)
+
 $$\begin{pmatrix}
 1 & 2 & -1 & | & 1 & 0 & 0 \\
 1 & 0 & 1 & | & 0 & 1 & 0 \\
@@ -57,6 +61,7 @@ $$\begin{pmatrix}
 \end{pmatrix}$$
 $$\vec {e_1}_B = (1/3, 1/6, -1/3) $$
 $$\vec {e_1}_B = (7/6, -1/2) $$
+
 ![e9eeefbdbd59c8bb37207f1cc829d799.png](../../_resources/e9eeefbdbd59c8bb37207f1cc829d799.png)
 
 $$\begin{pmatrix}
