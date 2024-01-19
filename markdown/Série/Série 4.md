@@ -11,12 +11,18 @@ Série 4
 
 ![fea8a36873b66f72cd6073353d35f7f8.png](../../_resources/fea8a36873b66f72cd6073353d35f7f8.png)
 a) 
+
 $$ (\lambda a-\lambda b) $$
+
 Inverse un axe de la dimmension, c'est une transformation linéaire donc VRAI
 b)
+
 $$ (\lambda a+(-\lambda) a) =(\lambda x,\lambda^2y)+(-\lambda x,\lambda^2y)=(0,2\lambda ^2y)$$
+
 $$ (\lambda a+(\lambda) a) =(\lambda x,\lambda^2y)+(\lambda x,\lambda^2y)=(2\lambda x,2\lambda ^2y)$$
+
 c'ette opération réstreite l'axe y a sa partie positive donc l'espace n'est plus bijectif -> FAUX
+
 
 ![417b294fb066e920c5cb3499fc5ab2b4.png](../../_resources/417b294fb066e920c5cb3499fc5ab2b4.png)
 a) vrai
