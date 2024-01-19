@@ -1,11 +1,3 @@
----
-title: Série 12
-updated: 2021-12-11 23:44:25Z
-created: 2021-12-07 12:25:51Z
-latitude: 46.53880000
-longitude: 6.58860000
-altitude: 0.0000
----
 
 ![36bca8adfce43fdc149c1134ea4e67e4.png](../../_resources/36bca8adfce43fdc149c1134ea4e67e4.png)
 
