@@ -8,6 +8,7 @@ altitude: 0.0000
 ---
 
 ![36bca8adfce43fdc149c1134ea4e67e4.png](../../_resources/36bca8adfce43fdc149c1134ea4e67e4.png)
+
 1)
 $$(-2, 2, 3, 5)-(1,-1,0,2)=(-3, 3, 3, 3)$$
 $$Q=\begin{pmatrix}
